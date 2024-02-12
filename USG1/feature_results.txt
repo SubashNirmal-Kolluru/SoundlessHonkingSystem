@@ -1,0 +1,222 @@
+
+
+a10.jpg
+
+Deceleration:  1.80
+Systolic Window144
+Acceleration: 0.165957
+Period: 124
+SBI: 81.333333
+SDR: 0.276596
+Negative Peak:  Present
+
+a11.jpg
+
+Acceleration: -0.398929
+Period: 125
+SBI: 80.666667
+SDR: -0.382928
+Negative Peak:  Present
+
+a12.jpg
+
+Deceleration:  -0.40
+Systolic Window:  -153
+Acceleration: 0.014493
+Period: 122
+SBI: 72.666667
+SDR: -0.023622
+Negative Peak:  Present
+
+a13.jpg
+
+Acceleration: -0.114145
+Period: 116
+SBI: 45.000000
+SDR: 0.397480
+Negative Peak:  Present
+
+n5.jpg
+
+Acceleration: 0.691054
+Period: 119
+SBI: 102.666667
+SDR: 1.930503
+Negative Peak:  Present
+
+
+a10.jpg
+thr = 0.6 works here well.
+
+Deceleration:  2.18
+Systolic Window:   62
+Acceleration: -0.741509
+Period: 125
+SBI: 78.666667
+SDR: 2.673469
+Negative Peak:  Present
+
+
+a11.jpg
+thr = 0.75 works here well.
+
+Acceleration: 0.918421
+Period: 117
+SBI: 76.666667
+SDR: 3.455446
+Negative Peak:  Present
+
+a12.jpg
+
+thr = 0.6 works here well.
+
+Deceleration:  1.20
+Systolic Window:   97
+Acceleration: -0.684804
+Period: 131
+SBI: 76.000000
+SDR: 4.153617
+Negative Peak:  Present
+
+a13.jpg
+
+Deceleration:  1.14
+Systolic Window:   60
+Acceleration: -0.356994
+Period: 124
+SBI: 42.333333
+SDR: 2.178928
+Negative Peak:  Present
+
+n1.jpg
+Waveform isn't coming proper.
+
+Acceleration: 0.718919
+Period: 120
+SBI: 157.000000
+SDR: 2.102767
+Negative Peak:  Absent
+
+
+n4.jpg
+thr = .7, fine tuned.
+
+Deceleration:  0.66
+Systolic Window:   46
+Acceleration: -0.661927
+Period: 126
+SBI: 82.000000
+SDR: 1.608696
+Negative Peak:  Absent
+
+
+n5.jpg
+
+Acceleration: 0.714167
+Period: 125
+SBI: 107.333333
+SDR: 1.774327
+Negative Peak:  Absent
+
+
+n6.jpg
+If the baseline was not present, the SBI would have been fairly accurate.
+Acceleration: 0.680093
+Period: 130
+SBI: 102.333333
+SDR: 3.531250
+Negative Peak:  Present
+
+
+
+n5.jpg
+
+Acceleration: 0.718929
+Period: 119
+SBI: 106.000000
+SDR: 1.786158
+Negative Peak:  Absent
+
+n1.jpg
+
+Acceleration: 0.718919
+Period: 120
+SBI: 157.000000
+SDR: 2.102767
+Negative Peak:  Absent
+
+a10.jpg
+
+Deceleration:  2.18
+Systolic Window:   62
+Acceleration: -0.741509
+Period: 125
+SBI: 78.666667
+SDR: 2.673469
+Negative Peak:  Present
+
+a10.jpg
+
+Deceleration:  2.18
+Systolic Window:   62
+Acceleration: -0.741509
+Period: 125
+SBI: 78.666667
+SDR: 2.673469
+Negative Peak:  Present
+
+a10.jpg
+
+Deceleration:  2.18
+Systolic Window:   62
+Acceleration: -0.741509
+Period: 125
+SBI: 78.666667
+SDR: 2.673469
+Negative Peak:  Present
+
+a10.jpg
+
+Deceleration:  2.18
+Systolic Window:   62
+a10.jpg
+
+Deceleration:  2.18
+Systolic Window:   62
+n5.jpg
+
+n5.jpg
+
+n5.jpg
+
+n23.jpg
+
+n4.jpg
+
+n5.jpg
+
+n36.jpg
+
+Deceleration:  1.46
+Systolic Window:  121
+n36.jpg
+
+Deceleration:  1.46
+Systolic Window:  121
+n36.jpg
+
+Deceleration:  1.46
+Systolic Window:  121
+n36.jpg
+
+Deceleration:  1.46
+Systolic Window:  121
+n36.jpg
+
+Deceleration:  4.12
+Systolic Window:   29
+a10.jpg
+
+Deceleration:  2.13
+Systolic Window:   61
+n5.jpg

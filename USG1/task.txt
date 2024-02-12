@@ -1,0 +1,4 @@
+1. working on upIndex 
+2. AHT full on some sample images, with automatic threshold, with manual threshold
+3. AHT sparse similarly.
+4. Understanding the AHT sparse code and 
